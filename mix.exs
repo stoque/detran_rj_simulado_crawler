@@ -1,4 +1,4 @@
-defmodule DetranRjSimuladoCrawler.MixProject do
+defmodule DetranCrawler.MixProject do
   use Mix.Project
 
   def project do
